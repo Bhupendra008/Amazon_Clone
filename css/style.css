@@ -19,7 +19,7 @@
 .logo {
     height: 50px;
     width: 100%;
-    background-image: url(/images/amzon_logo.png);
+    background-image: url(/amzon_logo.png);
     background-size: cover;
 }
 .border{
@@ -137,7 +137,7 @@ font-weight: 700;
 /** hero section **/
 
 .hero-section{
-    background-image: url(/images/Hero_image.jpg);
+    background-image: url(/Hero_image.jpg);
     background-size: cover;
     height: 350px;
     display: flex;
@@ -237,7 +237,7 @@ ul a{
 .logo {
     height: 50px;
     width: 100px;
-    background-image: url(/images/amzon_logo.png);
+    background-image: url(/amzon_logo.png);
     background-size: cover;
 }
 
